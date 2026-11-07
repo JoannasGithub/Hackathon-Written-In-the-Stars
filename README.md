@@ -1,1 +1,1 @@
-# Hackathon-Written-In-the-Stars
+# Written-In-the-Stars

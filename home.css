@@ -31,14 +31,12 @@
 
 .main__content h1 {
   font-size: 5rem;
-  background-color: #ffff;
-  /*background-image: linear-gradient(to top, #d20a2e 0%, #d20a2e 100%);*/
-  background-size: 100%;
-  -webkit-background-clip: text;
-  background-clip: text;
-  -webkit-text-fill-color: transparent;
-  font-family: 'Nunito Sans', sans-serif;
+  font-family: "Cormorant Garamond", Georgia, serif;
   font-style: italic;
+  font-weight: 500;
+  line-height: 1;
+  color: #fff6ec;
+  text-shadow: 0 0 36px rgba(213, 139, 232, 0.5);
 }
 
 .main__content h2 {
